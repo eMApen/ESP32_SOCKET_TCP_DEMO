@@ -1,0 +1,841 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccYDX8xO.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccAyG960.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccWP2Nm7.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccnHSL9d.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccT54wim.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccXraVyx.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cc13pstK.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccaOO6sq.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -c 
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cckD7ccv.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --c++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --ec++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cca0fnVE.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cceUBwiK.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/my_empire/ESP32SDK/tcp_client/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Users/penny/.espressif/tools/ninja/1.10.2/ninja.exe cmTC_c304c && [1/2] Building C object CMakeFiles\cmTC_c304c.dir\CMakeCCompilerABI.c.obj
+FAILED: CMakeFiles/cmTC_c304c.dir/CMakeCCompilerABI.c.obj 
+D:\Users\penny\.espressif\tools\xtensa-esp32-elf\esp-2021r1-8.4.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe   -mlongcalls -Wno-frame-address -o CMakeFiles\cmTC_c304c.dir\CMakeCCompilerABI.c.obj   -c D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCCompilerABI.c
+D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCCompilerABI.c:25:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cc1eDu3m.s: No space left on device
+ }
+ ^
+compilation terminated.
+ninja: build stopped: subcommand failed.
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/my_empire/ESP32SDK/tcp_client/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Users/penny/.espressif/tools/ninja/1.10.2/ninja.exe cmTC_531ea && [1/2] Building CXX object CMakeFiles\cmTC_531ea.dir\CMakeCXXCompilerABI.cpp.obj
+FAILED: CMakeFiles/cmTC_531ea.dir/CMakeCXXCompilerABI.cpp.obj 
+D:\Users\penny\.espressif\tools\xtensa-esp32-elf\esp-2021r1-8.4.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe    -mlongcalls -Wno-frame-address -o CMakeFiles\cmTC_531ea.dir\CMakeCXXCompilerABI.cpp.obj -c D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCXXCompilerABI.cpp
+D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCXXCompilerABI.cpp:16:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccRpwIcP.s: No space left on device
+ }
+ ^
+compilation terminated.
+ninja: build stopped: subcommand failed.
+
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccxSEgap.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cctoV4ED.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccBAbv0V.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccZg2Dq7.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccVIcPce.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccQpbRio.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccodkUe9.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -c 
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccuoju8d.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --c++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --ec++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cc1MAKli.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccFtl8qn.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/my_empire/ESP32SDK/tcp_client/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Users/penny/.espressif/tools/ninja/1.10.2/ninja.exe cmTC_2fc1d && [1/2] Building C object CMakeFiles\cmTC_2fc1d.dir\CMakeCCompilerABI.c.obj
+FAILED: CMakeFiles/cmTC_2fc1d.dir/CMakeCCompilerABI.c.obj 
+D:\Users\penny\.espressif\tools\xtensa-esp32-elf\esp-2021r1-8.4.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe   -mlongcalls -Wno-frame-address -o CMakeFiles\cmTC_2fc1d.dir\CMakeCCompilerABI.c.obj   -c D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCCompilerABI.c
+D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCCompilerABI.c:25:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccVX4Bvf.s: No space left on device
+ }
+ ^
+compilation terminated.
+ninja: build stopped: subcommand failed.
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/my_empire/ESP32SDK/tcp_client/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Users/penny/.espressif/tools/ninja/1.10.2/ninja.exe cmTC_d309e && [1/2] Building CXX object CMakeFiles\cmTC_d309e.dir\CMakeCXXCompilerABI.cpp.obj
+FAILED: CMakeFiles/cmTC_d309e.dir/CMakeCXXCompilerABI.cpp.obj 
+D:\Users\penny\.espressif\tools\xtensa-esp32-elf\esp-2021r1-8.4.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe    -mlongcalls -Wno-frame-address -o CMakeFiles\cmTC_d309e.dir\CMakeCXXCompilerABI.cpp.obj -c D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCXXCompilerABI.cpp
+D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCXXCompilerABI.cpp:16:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccIU6rSA.s: No space left on device
+ }
+ ^
+compilation terminated.
+ninja: build stopped: subcommand failed.
+
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccn6fqll.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccBno7Qs.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccJ3eA3I.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cc9UfxLQ.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccFhRVX0.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:670:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccDMqn1h.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-gcc.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-gcc.exe: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cceRPhHO.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: -c 
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccIE7f2T.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --c++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --ec++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccK9lVB2.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:660:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccsKppN6.s: No space left on device
+ }
+ ^
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Users/penny/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+xtensa-esp32-elf-g++.exe: error: unrecognized command line option '-mcpu=cortex-m3'
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+xtensa-esp32-elf-g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/my_empire/ESP32SDK/tcp_client/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Users/penny/.espressif/tools/ninja/1.10.2/ninja.exe cmTC_f9f96 && [1/2] Building C object CMakeFiles\cmTC_f9f96.dir\CMakeCCompilerABI.c.obj
+FAILED: CMakeFiles/cmTC_f9f96.dir/CMakeCCompilerABI.c.obj 
+D:\Users\penny\.espressif\tools\xtensa-esp32-elf\esp-2021r1-8.4.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe   -mlongcalls -Wno-frame-address -o CMakeFiles\cmTC_f9f96.dir\CMakeCCompilerABI.c.obj   -c D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCCompilerABI.c
+D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCCompilerABI.c:25:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\cc38i90J.s: No space left on device
+ }
+ ^
+compilation terminated.
+ninja: build stopped: subcommand failed.
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/my_empire/ESP32SDK/tcp_client/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Users/penny/.espressif/tools/ninja/1.10.2/ninja.exe cmTC_3642b && [1/2] Building CXX object CMakeFiles\cmTC_3642b.dir\CMakeCXXCompilerABI.cpp.obj
+FAILED: CMakeFiles/cmTC_3642b.dir/CMakeCXXCompilerABI.cpp.obj 
+D:\Users\penny\.espressif\tools\xtensa-esp32-elf\esp-2021r1-8.4.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-g++.exe    -mlongcalls -Wno-frame-address -o CMakeFiles\cmTC_3642b.dir\CMakeCXXCompilerABI.cpp.obj -c D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCXXCompilerABI.cpp
+D:\Users\penny\.espressif\tools\cmake\3.16.4\share\cmake-3.16\Modules\CMakeCXXCompilerABI.cpp:16:1: fatal error: error closing C:\Users\penny\AppData\Local\Temp\ccLvHhLb.s: No space left on device
+ }
+ ^
+compilation terminated.
+ninja: build stopped: subcommand failed.
+
+
+
+

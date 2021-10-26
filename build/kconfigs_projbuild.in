@@ -1,0 +1,6 @@
+source "C:/Users/penny/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/penny/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/penny/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/penny/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/penny/esp/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"
+source "D:/my_empire/ESP32SDK/tcp_client/main/Kconfig.projbuild"
