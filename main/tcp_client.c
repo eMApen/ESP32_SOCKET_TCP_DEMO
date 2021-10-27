@@ -43,6 +43,7 @@ int flage = 555;
 
 char msgp[60000] ;
 
+
 static void tcp_client_task(void *pvParameters)//这边是对tcp——client——task做一个
 {
     char rx_buffer[8];
