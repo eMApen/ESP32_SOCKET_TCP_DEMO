@@ -22,6 +22,7 @@
 #include "lwip/err.h"
 #include "lwip/sockets.h"
 #include "cat.h"
+// #include "XDYS.h"
 
 
 /*
@@ -120,17 +121,17 @@ static void tcp_client_task(void *pvParameters)//这边是对tcp——client—�
                     while(1){
                         for(int i=0;i<65;i++)
                         {   
-                                int32_t xlen = strlen(cat[i]);
-                                
-                                // %04
-                                sprintf(msgp,"%010dgoo%s",xlen,cat[i]);
-                                ESP_LOGI(TAG, "PIC LENTH = %d NUM= %d",xlen,i);
-                                // err = send(sock, (char)xlen, 4, 0);
-                                err = send(sock, msgp, 13+xlen, 0);
-                                if (err < 0) {
-                                    ESP_LOGE(TAG, "Error occurred during sending: errno %d", errno);
-                                    break;
-                                }
+                            int32_t xlen = strlen(cat[i]);
+                            
+                            // %04
+                            sprintf(msgp,"%010dgoo%s",xlen,cat[i]);
+                            ESP_LOGI(TAG, "PIC LENTH = %d NUM= %d",xlen,i);
+                            // err = send(sock, (char)xlen, 4, 0);
+                            err = send(sock, msgp, 13+xlen, 0);
+                            if (err < 0) {
+                                ESP_LOGE(TAG, "Error occurred during sending: errno %d", errno);
+                                break;
+                            }
                             memset(rx_buffer, 0, sizeof(rx_buffer));
                         }
                         if (err < 0) {
@@ -139,6 +140,30 @@ static void tcp_client_task(void *pvParameters)//这边是对tcp——client—�
                             break;
                         }
                     }
+                    // while(1){
+                        
+                    //     for(int i=0;i<7;i++)
+                    //     {   
+                    //             int32_t xlen = strlen(XDYS1[i]);
+                    //             // %04
+                    //             sprintf(msgp,"%010dgoo%s",xlen,XDYS1[i]);
+                    //             ESP_LOGI(TAG, "PIC LENTH = %d NUM= %d",xlen,i);
+                    //             // err = send(sock, (char)xlen, 4, 0);
+                    //             err = send(sock, msgp, 13+xlen, 0);
+                    //             if (err < 0) {
+                    //                 ESP_LOGE(TAG, "Error occurred during sending: errno %d", errno);
+                    //                 break;
+                    //             }
+                    //         memset(rx_buffer, 0, sizeof(rx_buffer));
+                    //     }
+                    //     if (err < 0) {
+                    //         ESP_LOGE(TAG, "Error occurred during sending: errno %d", errno);
+                    //         // esp_restart();
+                    //         break;
+                    //     }
+
+                        
+                    // }
                     
                 }
             }
@@ -164,7 +189,7 @@ void app_main(void)
     spi_flash_init();
     ESP_ERROR_CHECK(esp_netif_init());
     ESP_ERROR_CHECK(esp_event_loop_create_default());
-    //上面全部是初始化，话说啥事event loop？
+    //上面全部是初始化，话说啥是event loop
     
     /* This helper function configures Wi-Fi or Ethernet, as selected in menuconfig.
      * Read "Establishing Wi-Fi or Ethernet Connection" section in

@@ -9,5 +9,6 @@
     "*.inc": "c",
     "random": "c",
     "sstream": "c"
-  }
+  },
+  "idf.adapterTargetName": "esp32"
 }
