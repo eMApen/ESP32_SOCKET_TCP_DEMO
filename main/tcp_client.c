@@ -74,6 +74,7 @@ static void tcp_client_task(void *pvParameters)//这边是对tcp——client—�
         int sock =  socket(addr_family, SOCK_STREAM, ip_protocol);//这里是创建socket
         if (sock < 0) {
             ESP_LOGE(TAG, "Unable to create socket: errno %d", errno);
+            esp_restart();
             break;
         }
         ESP_LOGI(TAG, "Socket created, connecting to %s:%d", host_ip, PORT);
@@ -81,6 +82,7 @@ static void tcp_client_task(void *pvParameters)//这边是对tcp——client—�
         int err = connect(sock, (struct sockaddr *)&dest_addr, sizeof(struct sockaddr_in6));//连接socket
         if (err != 0) {
             ESP_LOGE(TAG, "Socket unable to connect: errno %d", errno);
+            esp_restart();
             break;
         }
         ESP_LOGI(TAG, "Successfully connected");
@@ -130,6 +132,11 @@ static void tcp_client_task(void *pvParameters)//这边是对tcp——client—�
                                     break;
                                 }
                             memset(rx_buffer, 0, sizeof(rx_buffer));
+                        }
+                        if (err < 0) {
+                            ESP_LOGE(TAG, "Error occurred during sending: errno %d", errno);
+                            // esp_restart();
+                            break;
                         }
                     }
                     

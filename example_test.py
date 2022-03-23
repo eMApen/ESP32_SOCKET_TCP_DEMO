@@ -112,7 +112,7 @@ class TcpServer(Thread):    # Tcp服务器对象,也是用来socket中间件，�
                             # struct中:!代表Network order，3I代表3个unsigned int数据
                             headPack = struct.unpack(fmt, dataBuffer[:headerSize])
                             bodySize = int(headPack[0])
-                            print('hp = ',headPack,'headsize = ',headerSize,'bodysize = ',bodySize)
+                            # print('hp = ',headPack,'headsize = ',headerSize,'bodysize = ',bodySize)
 
                             # 分包情况处理，跳出函数继续接收数据
                             if len(dataBuffer) < headerSize+bodySize :
